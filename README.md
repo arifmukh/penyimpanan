@@ -1,0 +1,2 @@
+# penyimpanan
+tempat penyimpanan lainnya
